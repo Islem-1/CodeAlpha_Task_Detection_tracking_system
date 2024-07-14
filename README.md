@@ -7,9 +7,7 @@ This project implements object detection and tracking using YOLOv8 for real-time
 - [Introduction](#introduction)
 - [Model](#model)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
