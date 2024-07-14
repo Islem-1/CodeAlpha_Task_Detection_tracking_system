@@ -23,7 +23,7 @@ The project uses the YOLOv8 model, a state-of-the-art deep learning architecture
 
 Follow these steps to set up the project locally:
 
-   git clone https://github.com/Islem-1/Detection_tracking_system.git
+   git clone https://github.com/Islem-1/CodeAlpha_Task_Detection_tracking_system.git
    cd Detection_tracking_system
    
 
